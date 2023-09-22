@@ -25,11 +25,11 @@ I'm M.S. student in **[Efficient Computing Lab](https://sites.google.com/view/eh
   **[NeurIPS 2023](https://nips.cc)**, to be appear.
   
 - **[Geodesic Multi-Modal Mixup for Robust Fine-Tuning]()**  
-Changdae Oh*, ***Junhyuk So\****, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song  
+Changdae Oh\*, ***Junhyuk So\****, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song  
   **[NeurIPS 2023](https://nips.cc)**, to be appear.
 
 - **[NIPQ : Noise porxy based Integraded Psuedo Quantization](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_NIPQ_Noise_Proxy-Based_Integrated_Pseudo-Quantization_CVPR_2023_paper.html)**  
-Juncheol Shin*, ***Junhyuk So\****, Sein Park, Seungyeop Kang, Sungjoo Yoo, Eunhyeok Park  
+Juncheol Shin\*, ***Junhyuk So\****, Sein Park, Seungyeop Kang, Sungjoo Yoo, Eunhyeok Park  
 **[CVPR 2023](https://cvpr2023.thecvf.com)**, June, 2023, Vancouver.
 
 - **[Robust Contrastive Learning with Dynamic Mixed Margin](https://ieeexplore.ieee.org/document/10154052)**  
@@ -45,7 +45,7 @@ Changdae Oh, Heeji Won, ***Junhyuk So***, Taero Kim, Yewon Kim, Hosik Choi, Kyun
 **[KDD 2022](https://kdd.org/kdd2022/)**, July, 2022, Washington DC.
 
 - **[Exploiting Activation Sparsity for Fast CNN Inference on Mobile GPUs](https://dl.acm.org/doi/abs/10.1145/3477008)**  
-Chanyoung Oh*, ***Junhyuk So\****, Sumin Kim*, Youngmin Yi  
+Chanyoung Oh\*, ***Junhyuk So\****, Sumin Kim*, Youngmin Yi  
 **[CODES+ISSS 2021](https://esweek.org/codes-isss/)** Oct, 2021, Virtual,  
 **[ACM TECS](https://dl.acm.org/journal/tecs)** , 2021.
 
