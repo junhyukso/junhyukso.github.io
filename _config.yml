@@ -83,11 +83,11 @@ author:
   name             : "Junhyuk So"
   avatar           : "profile.png"
   bio              : "hello world"
-  location         : "Pohangn"
+  location         : "Pohang"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=uYE7vtEAAAAJ&hl=ko"
+  email            : "junhyukso@postech.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "junhyukso"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "junhyuk-so-0a91631ab"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "goqh_so"
   vine             :
   weibo            :
   xing             :
