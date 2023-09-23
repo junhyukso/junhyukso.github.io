@@ -19,7 +19,7 @@ I'm M.S. student in **[Efficient Computing Lab](https://sites.google.com/view/eh
 - [Oct. 21]  1 paper has been accepted to **[CODES+ISSS]()** and **[ACM TECS]()**.
 
 ## Publications 
-( * equal contribution )
+( * co-first author )
 - **[Temporal Dynamic Quantization for Diffusion Model]()**  
 ***Junhyuk So\****, Jungwon Lee*, Daehyun Ahn, Hyungjun Kim, Eunhyeok Park  
   **[NeurIPS 2023](https://nips.cc)**, to be appear.
