@@ -16,31 +16,34 @@ In particular, I'm interested in the following topics.
 - **Neural Network Compression**
   - Quantization ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/72396)** , **[CVPR23](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_NIPQ_Noise_Proxy-Based_Integrated_Pseudo-Quantization_CVPR_2023_paper.html)** ) ,
   - Pruning( **[CODES+ISSS21](https://dl.acm.org/doi/abs/10.1145/3477008)**).
-  - Feature Reusing ( **[Arxiv23](https://arxiv.org/abs/2312.03517)** )
 - **Computer Systems**
   - GPGPU Kernel (**[CODES+ISSS21](https://dl.acm.org/doi/abs/10.1145/3477008)**)
 - **Vision**
-  - Diffusion Model ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/72396)**, **[Arxiv23](https://arxiv.org/abs/2312.03517)** )
+  - Diffusion Model ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/72396)**, **[ECCV24](https://arxiv.org/abs/2312.03517)** )
   - Multi modal learning  (Vision + Language) ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/70749)**, **[IEEE Access23](https://ieeexplore.ieee.org/document/10154052)** )
   
 
 ## News
-- [Dec. 23]  1 new preprint paper : [FRDiff](https://arxiv.org/abs/2312.03517) . 
+- [Jul. 24]  **1 paper** has been accepted to **[ECCV 2024](https://eccv2024.ecva.net)** . 
 - [Sep. 23]  **2 papers** have been accepted to **[NeurIPS 2023](https://nips.cc)**.
-- [Jun. 23]  1 paper has been accepted to **[IEEE Access](https://ieeeaccess.ieee.org)**.
-- [Feb. 23]  1 paper has been accepted to **[CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023)**.
-- [Mar. 22]  I started my graduate student life in **[POSTECH](https://postech.ac.kr/eng/)**.
-- [Oct. 21]  1 paper has been accepted to **[CODES+ISSS]()** and **[ACM TECS]()**.
+- [Jun. 23]  **1 paper** has been accepted to **[IEEE Access](https://ieeeaccess.ieee.org)**.
+- [Feb. 23]  **1 paper** has been accepted to **[CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023)**.
+- [Mar. 22]  I started my graduate student course in **[POSTECH](https://postech.ac.kr/eng/)**.
+- [Oct. 21]  **1 paper** has been accepted to **[CODES+ISSS]()** and **[ACM TECS]()**.
 
 ## Publications 
 
 ### Preprint
-- **[FRDiff: Feature Reuse for Exquisite Zero-shot Acceleration of Diffusion Models](https://arxiv.org/abs/2312.03517)**  
-**Junhyuk So**, Jungwon Lee, Eunhyeok Park.  
-Arxiv, Dec, 2023.
+
 ### International Conference
 
 ( * co-first author )
+
+- **[FRDiff : Feature Reuse for Universal Training-free Acceleration of Diffusion Models](https://arxiv.org/abs/2312.03517)**  
+**Junhyuk So\***, Jungwon Lee*, Eunhyeok Park  
+**[ECCV 2024](https://eccv2024.ecva.net)**, Sep, 2024, Milano.
+
+
 - **[Temporal Dynamic Quantization for Diffusion Model](https://neurips.cc/virtual/2023/poster/72396)**  
 ***Junhyuk So\****, Jungwon Lee*, Daehyun Ahn, Hyungjun Kim, Eunhyeok Park  
   **[NeurIPS 2023](https://nips.cc)**, Dec, 2023, New Orleans.
