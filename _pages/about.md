@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 ## About me
+**[CV](https://junhyukso.github.io/files/CV_Junhyuk_So-6.pdf)**
+
 I'm a Ph.D student of **[Efficient Computing Lab](https://sites.google.com/view/eh-p)** in the Computer Science & Engineering depeartment at the **[POSTECH](https://postech.ac.kr/eng/)**, South Korea.
 
 My main research interest mostly focuses on designing **acceleration systems for AI** to enable people to take full advantage of AI. Also, I'm interested in core computer vision problems such as representation learning and diffusion model.
