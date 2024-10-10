@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-**[CV](https://junhyukso.github.io/files/CV_Junhyuk_So-6.pdf)**
+**[CV](https://junhyukso.github.io/files/CV_Junhyuk_So-8.pdf)**
 
 I'm a Ph.D student of **[Efficient Computing Lab](https://sites.google.com/view/eh-p)** in the Computer Science & Engineering depeartment at the **[POSTECH](https://postech.ac.kr/eng/)**, South Korea.
 
