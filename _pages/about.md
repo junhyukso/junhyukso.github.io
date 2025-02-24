@@ -51,7 +51,7 @@ In particular, I'm interested in the following topics.
   **[NeurIPS 2023](https://nips.cc)**, Dec, 2023, New Orleans.
   
 - **[Geodesic Multi-Modal Mixup for Robust Fine-Tuning](https://neurips.cc/virtual/2023/poster/70749)**  
-Changdae Oh\*, ***Junhyuk So\****, Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song  
+***Junhyuk So\****, Changdae Oh\*,  Hoyoon Byun, YongTaek Lim, Minchul Shin, Jong-June Jeon, Kyungwoo Song  
   **[NeurIPS 2023](https://nips.cc)**, Dec, 2023, New Orleans.
 
 - **[NIPQ : Noise porxy based Integraded Psuedo Quantization](https://openaccess.thecvf.com/content/CVPR2023/html/Shin_NIPQ_Noise_Proxy-Based_Integrated_Pseudo-Quantization_CVPR_2023_paper.html)**  
