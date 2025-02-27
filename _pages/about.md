@@ -21,11 +21,13 @@ In particular, I'm interested in the following topics.
 - **Computer Systems**
   - GPGPU Kernel (**[CODES+ISSS21](https://dl.acm.org/doi/abs/10.1145/3477008)**)
 - **Vision**
-  - Diffusion Model ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/72396)**, **[ECCV24](https://arxiv.org/abs/2312.03517)** )
+  - Diffusion Model ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/72396)**, **[ECCV24](https://arxiv.org/abs/2312.03517)**, **CVPR25** )
   - Multi modal learning  (Vision + Language) ( **[NeurIPS23](https://neurips.cc/virtual/2023/poster/70749)**, **[IEEE Access23](https://ieeexplore.ieee.org/document/10154052)** )
   
 
 ## News
+
+- [Feb. 25]  **1 paper** has been accepted to **[CVPR 2025](https://cvpr.thecvf.com)** .
 - [Jul. 24]  **1 paper** has been accepted to **[ECCV 2024](https://eccv2024.ecva.net)** . 
 - [Sep. 23]  **2 papers** have been accepted to **[NeurIPS 2023](https://nips.cc)**.
 - [Jun. 23]  **1 paper** has been accepted to **[IEEE Access](https://ieeeaccess.ieee.org)**.
@@ -40,6 +42,10 @@ In particular, I'm interested in the following topics.
 ### International Conference
 
 ( * co-first author )
+
+- **[PCM : Picard Consistency Model for Fast Parallel Sampling of Diffuson Models]()**  
+**Junhyuk So**, Jiwoong Shin, Chayeon Jang, Eunhyeok Park  
+**[CVPR 2025](https://cvpr.thecvf.com)**, To be appear.
 
 - **[FRDiff : Feature Reuse for Universal Training-free Acceleration of Diffusion Models](https://arxiv.org/abs/2312.03517)**  
 **Junhyuk So\***, Jungwon Lee*, Eunhyeok Park  
