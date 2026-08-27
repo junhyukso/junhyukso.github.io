@@ -1,0 +1,222 @@
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{kotex}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{ #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{{\LARGE Junhyuk So}} & Email: \href{mailto:junhyukso@postech.ac.kr}{junhyukso@postech.ac.kr}\\
+  \href{https://scholar.google.com/citations?hl=ko&user=uYE7vtEAAAAJ}{Google Scholar } & Mobile:~~~+8210-2845-4886 \\
+\end{tabular*}
+
+      
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {M.S/Ph.D - POSTECH (Advisor : Eunhyeok Park)}{Pohang, Korea}
+      {Department of Computer Science and Enginnering}{2022 - 2027.02(Expected)}
+    \resumeSubheading
+      {B.S - University Of Seoul}{Seoul, Korea}
+      {Department of Electrical and Computer Engineering}{2018 - 2022}
+    \resumeSubHeadingListEnd
+
+\vspace{-5pt}
+\section{Research Interests}
+	\resumeSubHeadingListStart
+    	\resumeSubItem{Efficient AI}{~~~~~~~~~~~~~~Quantization, Speculative Decoding,  Parallel Algorithm}
+	\resumeSubItem{Generative Models}{~~~Diffusion Models, Multimodal LLMs}
+	\resumeSubItem{Optimization}{~~~~~~~~~~~~Numerical analysis, Sampling Methods}
+    \resumeSubItem{Robotics}{~~~~~~~~~~~~~~~~~~VLAs}
+\resumeSubHeadingListEnd
+\vspace{1pt}
+\section{Publiciations}
+ \textcolor{red}{\textbf{[$\cdot$]}} ML/AI top-tier conference, * co-first author
+
+
+
+\section{Conference}
+2026
+\begin{itemize}
+    \item \textcolor{red}{\textbf{[EMNLP26]}} Byeongho Yu*, \textbf{Junhyuk So*}, Eunhyeok Park, "LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models", \textbf{EMNLP} The 2026 Conference on Empirical Methods in Natural Language Processing, Main Conference.
+    \item \textcolor{red}{\textbf{[EMNLP26]}} Hyunho Kook, \textbf{Junhyuk So}, Tianyu Fu, Haizhong Zheng, Beidi Chen, "Beyond Confidence: Test-Time Scaling for Multi-Turn Search Agents via Retrieval Grounding", \textbf{Findings of EMNLP} The 2026 Conference on Empirical Methods in Natural Language Processing.
+    \item \textcolor{red}{\textbf{[ICML2026]}} \textbf{Junhyuk So}, Hyunho Kook,, Chaeyeon Jang, Eunhyeok Park, "Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation", \textbf{ICML} Forty-Third International Conference on Machine Learning, to be appear.
+\end{itemize}
+2025
+\begin{itemize}
+        \item \textcolor{red}{\textbf{[NeurIPS25]}} \textbf{Junhyuk So}, Chiwoong Lee, Shinyoung Lee, Jungseul Ok, Eunhyeok Park, "Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking", \textbf{NeurIPS} 39th Conference on Neural Information Processing Systems, Dec, 2025
+        \item \textcolor{red}{\textbf{[ICCV25]}} \textbf{Junhyuk So} Juncheol Shin, Hyunho Kook, Eunhyeok Park, "Grouped Speculative Decoding for Autoregressive Image Generation", \textbf{ICCV} International Conference on Computer Vision, Oct, 2025
+        \item \textcolor{red}{\textbf{[CVPR25]}} \textbf{Junhyuk So}, Jiwoong Shin, Chaeyeon Jang, Eunhyeok Park, "PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models", \textbf{CVPR} The IEEE/CVF Conference on Computer Vision and Pattern Recognition, June, 2025
+\end{itemize}
+2024
+\begin{itemize}
+    \item \textcolor{red}{\textbf{[ECCV24]}} \textbf{Junhyuk So*}, Jungwon Lee*, Eunhyeok Park, "FRDiff : Feature Reuse for Universal Training-free Acceleration of Diffusion Models", \textbf{ECCV} The 18th European Conference on Computer Vision , Oct, 2024
+\end{itemize}
+2023
+\begin{itemize}
+    \item \textcolor{red}{\textbf{[NeurIPS23]}} \textbf{Junhyuk So*}, Jungwon Lee*, Daehyun Ahn, Hyungjun Kim, Eunhyeok Park, "Temporal Dynamic Quantization for Diffusion Models" \textbf{NeurIPS} 37th Conference on Neural Information Processing Systems, Dec, 2023
+    \item \textcolor{red}{\textbf{[NeurIPS23]}} \textbf{Junhyuk So*}, Changdae Oh*,  Yongtaek Lim, Hoyoon Byun, Minchul Shin, Kyungwoo Song, "Geodesic Multi-Modal Mixup for Robust Fine-Tuning" \textbf{NeurIPS} 37th Conference on Neural Information Processing Systems, Dec, 2023
+
+    \item  \textcolor{red}{\textbf{[CVPR23]}} Juncheol Shin*, \textbf{Junhyuk So*},  Sein Park, Seungyeop Kang, Sungjoo Yoo, Eunhyeok Park, "NIPQ : Noise porxy based Integraded Psuedo Quantization " IEEE/CVF \textbf{CVPR} Computer Vision and Pattern Recognition Conference , June, 2023 
+
+    %\item Eunchong Noh, \textbf{Junhyuk So}, Seunghwan Lee, "Machine-Learning based Optimal Design of a Wireless Power Transfer Coil for Battery-Powered Tram" ICPE 2023-\textbf{ECCE Asia} 11th International Conference on Power Electronics , May, 2023
+\end{itemize}
+\newpage
+2022
+\begin{itemize}
+    \item Changdae Oh, Heeji Won, \textbf{Junhyuk So}, Taero Kim, Yewon Kim, Hosik Choi, Kyungwoo Song, "Learning Fair Representation via Distributional Contrastive Disentanglement" ACM \textbf{SIGKDD} International Conference on Knowledge Discovery \& Data Mining. July, 2022 (https://dl.acm.org/doi/10.1145/3534678.3539232)
+\end{itemize}
+2021
+\begin{itemize}
+\item \textcolor{red}{\textbf{[CODES21]}} Chanyoung Oh*, \textbf{Junhyuk So*}, Sumin Kim*, Youngmin Yi, "Exploiting Activation Sparsity for Fast CNN Inference on Mobile GPUs" International Conference on Hardware/Software Codesign and System  Synthesis \textbf{(CODES+ISSS)} Oct, 2021 (https://dl.acm.org/doi/abs/10.1145/3477008)
+\end{itemize}
+\section{Journal [SCI]}
+\begin{itemize}
+    \item Eunchong No, \textbf{Junhyuk So}, Jin-Hyuk Park, Seung-Hwan Lee, "Machine-Learning-Based Optimal Design of a 100 kW, 99\% Efficiency, 70 kV Insulated, Leakage-Inductance-Integrated Medium-Frequency Transformer" IEEE Transactions on Industrial Electronics (\textbf{TIE}) Mar, 2026, (https://ieeexplore.ieee.org/abstract/document/11424970)
+    \item  \textbf{Junhyuk So}, Yongtaek Lim, Yewon Kim, Changdae Oh, Kyungwoo Song, "Robust Contrastive Learning With Dynamic Mixed Margin" \textbf{IEEE Access} June, 2023 (https://ieeexplore.ieee.org/abstract/document/10154052)
+\item Chanyoung Oh*, \textbf{Junhyuk So*}, Sumin Kim*, Youngmin Yi, "Exploiting Activation Sparsity for Fast CNN Inference on Mobile GPUs" ACM Transactions on Embedded Computing Systems (\textbf{TECS})  Oct, 2021 (https://dl.acm.org/doi/abs/10.1145/3477008)
+\end{itemize}
+\iffalse
+\section{Journal [Domestic]}
+2020
+
+
+\begin{itemize}
+\item 김도희, 이상헌, 정세환, \textbf{소준혁}, 이영민, "CCTV 영상에서 얼굴인식과 사람 재식별을 이용한 확진자 고속 검색 시스템(Fast Confirmed Case Search System using Face Recognition and Person Re-identification in CCTV Video)", 한국정보과학회(KSC) 학술발표논문집 pp.1572-1574. Dec, 2020 (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10530078)
+\end{itemize}
+\fi
+%---------Academic services-------
+\section{Academic Services}
+\begin{description}[font=$\bullet$]
+\item {Reviewer : NeurIPS(24-26), ICLR(25-26), ICML(26), CVPR(24-26), ECCV/ICCV(25-26) WACV(25-26), AAAI(24-26), BMVC(26), TPAMI (26) }
+\end{description}
+
+%-----------Awards-----------------
+%\section{Awards}
+%\begin{description}[font=$\bullet$]
+%\item {Participation Award in Junior Student track, Korea Software Congress, Korea (Dec. 2020)}
+%\vspace{-5pt}
+%\item {First Prize in Research Sharing Contest, University Of Seoul, Korea (Dec. 2020) }
+
+
+%\end{description}
+
+%-----------Talks-----------------
+\section{Talks}
+\begin{description}[font=$\bullet$]
+\item {Recent Topics on Image Generation Acceleration @ Squeezebits (June, 2025)}
+
+
+
+\end{description}
+
+
+%-----------PROJECTS-----------------
+%\vspace{-5pt}
+%\section{Projects}
+%\resumeSubHeadingListStart
+%\resumeSubItem{Neural Network Accelerator}{(Work in progress) Tech : C, Vivado HLS, Pytorch}
+%\resumeSubItem{SLAM Face Detection Robot}{Tech: C++, ROS, Tensorflow, OpenCV}
+%\resumeSubItem{Fast Sparse CNN}{Tech : Python, Tensorflow, OpenCL, C++}
+%\resumeSubItem{Fast Persion Re-Idifiation}{Tech : Python, Pytorch}
+%\resumeSubItem{CL Tuner}{Automatically Find Best LWS of OpenCL Kernel. Tech: C++, OpenCL}
+%\resumeSubItem{IOT from scratch}{Tech: Electric Circuit, PCB Artwork, Zigbee, ATMEGA, AWS ( May '12)}
+%\resumeSubItem{UosLecture}{Launch Application that Automatically Notify vacancy of Lecture; Tech : Javascript, React Native, SQL ( May '12)}
+%\resumeSubItem{Kakaotalk Reverse Engineering}{Tech: Java, DalVik, Android, SQL ( July '18)}
+%\resumeSubItem{Kakaotalk chatbot }{Tech: Javascript, JAVA, Rhino (May '18)}
+%\resumeSubHeadingListEnd
+%\vspace{-5pt}
+\vspace{-5pt}
+\section{Honors}
+\begin{itemize}
+    \item ICML Top(Gold) Reviewers (2026)
+    \item POSTECHIAN Fellowship Award (2025), Winner (2,000\$)
+    \item POSTECH Research Excellence Award (2025), Winner (1,500\$)
+    \item BK21 Best paper award, POSTECH CSE (2025)
+    \item BK21 Exellence paper award, POSTECH GSAI (2025)
+    \item BK21 Exellence paper award, POSTECH GSAI (2024)
+\end{itemize}
+\section{Misc}
+\begin{itemize}
+    \item Homepage : https://junhyukso.github.io
+
+\end{itemize}
+
+\end{document}
